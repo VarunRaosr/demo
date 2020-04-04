@@ -1,5 +1,6 @@
 *********** READ ME ************
 This is a simple readme file 
 
-adding second line
+changed line
+update branch
 ******  END  *********
